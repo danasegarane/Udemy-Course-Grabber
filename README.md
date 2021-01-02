@@ -12,8 +12,6 @@ Script to add all udemy paid/free courses having coupons automatically to your u
 ![](https://cdn.discordapp.com/attachments/758388245591228437/791361656138891294/Screenshot_2020-12-23_204114.png)
 
 
-# Help me get more Cheetos
-### BTC `bc1qdyjwj0eqxjk5hxejah4gyclrumwtqs3hqp63uz` 
 
 ## ***Requirements***
 
